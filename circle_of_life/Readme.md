@@ -1,4 +1,4 @@
-Project 2: The Circle of Life
+# Project 2: The Circle of Life
 
 The purpose of this project is to build a probabilistic model of an environment in the presence of uncertainty, 
 and use it to inform and direct decision making. You are pursuing a prey object, while simultaneously being pursued by a predator object, 
