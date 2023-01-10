@@ -1,2 +1,2 @@
-# Project 3: Better, Smarter, Faster 
+# Project 3: [Better, Smarter, Faster](https://github.com/vamsikrishna1999/AI-Projects/blob/main/better_smarter_faster/CS%20520%20Proj%203%20Fall%202022.pdf) 
 Consider the same environment as in Project 2 - a circle of 50 nodes, with random edges. Again we have the predator, the agent, and the prey. The prey transitions as before, choosing a neighbor at random each time it moves. The predator transitions in accordance with the Distracted Predator Model from the previous project. In this project, we want to build an agent that captures the prey as efficiently as possible.
