@@ -1,10 +1,17 @@
-# AI-Projects
-Repository for CS520 AI Projects
+# AI Projects Repository
 
-- Ghosts in the maze: Implemented search algorithms (DFS, BFS, A*) to solve problems relating to Short Paths from Goal to Destination in stochastic Environment
+This repository contains projects completed for the CS520 AI course.
 
-- Circle of Life: Built a probabilistic model of an environment in the presence of uncertainty, and use it to inform and direct decision making
+## Projects
 
-- Better Smarter Faster:  Implemented Value Iteration to solve MDP and built a neural network to automate the process of finding the utility of a state
+1. **Ghosts in the Maze**  
+   Implemented search algorithms (DFS, BFS, A*) to find shortest paths in a stochastic environment.
 
-- Similarity Search: Implemented a unsupervised model to find similar images
+2. **Circle of Life**  
+   Developed a probabilistic model to guide decision-making under uncertainty.
+
+3. **Better, Smarter, Faster**  
+   Used Value Iteration to solve an MDP, then created a neural network to automate state utility calculation.
+
+4. **Similarity Search**  
+   Built an unsupervised model to identify similar images.
